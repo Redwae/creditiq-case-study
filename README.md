@@ -42,7 +42,7 @@ Numbers: ~120k lines of Rust across ~270 files, 47 SQL migrations, multi-tenant 
 
 ## Status
 
-Live, with a client-facing demo environment. Solo project: product design, backend, frontend, infrastructure and operations.
+Live, with a client-facing demo environment. Built inside a product team of 7. I wrote the code, AI-assisted and with technical supervision, across product design, backend, frontend, infrastructure and operations; my areas of ownership are the document extraction pipeline, datatape ingestion, the client portals and the Linux infrastructure.
 
 ## Screenshots
 
