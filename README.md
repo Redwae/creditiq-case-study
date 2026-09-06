@@ -55,3 +55,7 @@ From the synthetic demo tenant ("Banca Esempio"): every name, fiscal code and am
 *Portfolio positions with per-position drill-down:*
 
 ![Positions](images/positions.png)
+
+## Further reading
+
+- [What a system should do when it is not sure](docs/what-a-system-should-do-when-it-is-not-sure.pdf) (2 pages): refusal thresholds per field, human review on uncertain cases, and why the corrections become the evaluation set. Written from the CreditIQ extraction pipeline.
